@@ -1,12 +1,11 @@
-# Anri Kosto
-### Information Security Analyst & Cyber-Physical Systems Researcher (Dr.Sc. Cand.)
+### Information Security Analyst & Cyber-Physical Systems Researcher
 
 > **Status:** Open to Research & Consulting
 
 ---
 
 ### 🎯 Executive Summary
-Researcher with deep expertise in information systems, complex data, and cyber-physical security. I specialize in finding innovative architectural solutions, analyzing hidden patterns, and performing advanced data manipulation.
+Researcher in information systems, complex data, and cyber-physical security. I specialize in finding innovative architectural solutions, analyzing hidden patterns, and performing advanced data manipulation.
 
 * 📖 **Author of over 100 scientific papers** and registered software programs for intelligent data analysis and processing.
 * 📍 **Location:** Remote / Anywhere
