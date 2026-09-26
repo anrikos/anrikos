@@ -1,7 +1,7 @@
 # Hi there, I'm Anri Kosto 👋
 
 **Information Security Analyst & Cyber-Physical Systems Researcher**  
-Specializing in finding innovative solutions, analyzing hidden patterns, and performing complex data manipulation. Author of over 100 scientific papers and registered data processing programs.
+
 
 ---
 
