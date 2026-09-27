@@ -48,7 +48,7 @@
 <p align="left">
 <a href="https://x.com" target="blank"><img align="center" src="assets/twitter.svg" alt="X (Twitter)" height="22" width="32" /></a>
 <a href="https://stackoverflow.com" target="blank"><img align="center" src="assets/stackoverflow.svg" alt="Stack Overflow" height="22" width="32" /></a>
-
+<a href="https://medium.com" target="blank"><img align="center" src="assets/medium.svg" alt="Medium" height="22" width="32" /></a>
 <a href="https://discord.com" target="blank"><img align="center" src="assets/discord.svg" alt="Discord" height="22" width="32" /></a>
 </p>
 
