@@ -33,31 +33,36 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h4>🛡️ Security & Analysis</h4>
+      <h4>🛡️ Security & AI / Data Science</h4>
       <p>
-        <!-- Иконка OSINT/Безопасности -->
-        <img src="https://shields.io" alt="Red Team" height="25"/>
-        <img src="https://shields.io" alt="OSINT" height="25"/>
+        <img src="https://shields.io" alt="Red Team" />
+        <img src="https://shields.io" alt="OSINT" />
       </p>
-      <h4>🤖 Machine Learning & Data</h4>
-      <a href="https://pydata.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="pandas" width="40" height="40"/> </a> 
-      <a href="https://tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="tensorflow" width="40" height="40"/> </a> 
-      <a href="https://mathworks.com" target="_blank" rel="noreferrer"> <img src="https://wikimedia.org" alt="matlab" width="40" height="40"/> </a>
       <p>
-        <img src="https://shields.io" alt="NLP and LLM" height="25"/>
+        <img src="https://shields.io" alt="LLM & NLP" />
+      </p>
+      <p>
+        <img src="https://shields.io" alt="TensorFlow" />
+        <img src="https://shields.io" alt="Pandas" />
+        <img src="https://shields.io" alt="MATLAB" />
       </p>
     </td>
     <td valign="top" width="50%">
-      <h4>🛠️ Software Development & Environment</h4>
-      <a href="https://java.com" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="java" width="40" height="40"/> </a> 
-      <a href="https://mozilla.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/> </a> 
-      <a href="https://typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="typescript" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="nodejs" width="40" height="40"/> </a> 
-      <a href="https://linux.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="linux" width="40" height="40"/> </a> 
-      <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="git" width="40" height="40"/> </a> 
+      <h4>🛠️ Software Development & Infra</h4>
+      <p>
+        <img src="https://shields.io" alt="Java" />
+        <img src="https://shields.io" alt="JavaScript" />
+        <img src="https://shields.io" alt="TypeScript" />
+      </p>
+      <p>
+        <img src="https://shields.io" alt="Node.js" />
+        <img src="https://shields.io" alt="Linux" />
+        <img src="https://shields.io" alt="Git" />
+      </p>
     </td>
   </tr>
 </table>
+
 
 ---
 
