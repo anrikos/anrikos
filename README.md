@@ -42,3 +42,4 @@
 <a href="https://medium.com" target="blank"><img align="center" src="https://assets/medium.svg" alt="Medium" height="22" width="32" /></a>
 <a href="https://discord.com" target="blank"><img align="center" src="assets/discord.svg" alt="Discord" height="22" width="32" /></a>
 </p>
+
