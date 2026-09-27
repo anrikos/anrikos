@@ -30,16 +30,3 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <!-- Карточка общей статистики -->
-  <img src="https://vercel.app" alt="Anri's GitHub Stats" height="180" />
-  
-  <!-- Карточка рекордов активности (Streak) -->
-  <img src="https://herokuapp.com" alt="Anri's GitHub Streak" height="180" />
-</p>
-
-<p align="center">
-  <!-- Карточка самых используемых языков -->
-  <img src="https://vercel.app" alt="Anri's Top Langs" height="180" />
-</p>
