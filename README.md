@@ -2,8 +2,7 @@
   <img src="assets/giphy1.gif" alt="Demonstration" width="550" style="border-radius: 10px;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <code>Anri Kosto</code></h1>
-<h3 align="center"><kbd>Cyber-Physical Systems (CPS / ICS / IoT) Security Researcher</kbd></h3>
+<h2 align="center">Cyber-Physical Systems (CPS / ICS / IoT) Security Researcher</h2>
 
 <p align="center">
   <a href="mailto:anrik.dev@gmail.com">📫 <b>anrik.dev@gmail.com</b></a>
@@ -19,28 +18,19 @@
 ---
 
 ### 💻 Stack & Tools
-
-<table>
-  <tr>
-    <td align="center" valign="middle"><img src="assets/linux.svg" alt="Linux" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="assets/matlab.svg" alt="MATLAB" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="assets/tensorflow.svg" alt="TensorFlow" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="assets/pandas.svg" alt="Pandas" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="assets/java.svg" alt="Java" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="assets/javascript.svg" alt="JavaScript" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="assets/typescript.svg" alt="TypeScript" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="assets/node-js.svg" alt="NodeJS" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="assets/git.svg" alt="Git" width="40" height="40"/></td>
-  </tr>
-</table>
+* <img src="assets/linux.svg" width="16" height="16" valign="middle"/> [Linux](https://linux.org) — Operating system & research environment
+* <img src="assets/matlab.png" width="16" height="16" valign="middle"/> [MATLAB](https://mathworks.com) — Data analysis & mathematical modeling
+* <img src="assets/tensorflow.svg" width="16" height="16" valign="middle"/> [TensorFlow](https://tensorflow.org) — Machine Learning & deep learning frameworks
+* <img src="assets/pandas.svg" width="16" height="16" valign="middle"/> [Pandas](https://pydata.org) — Complex data manipulation & analytics
+* <img src="assets/java.svg" width="16" height="16" valign="middle"/> [Java](https://java.com) — Core software & tool development
+* <img src="assets/javascript.svg" width="16" height="16" valign="middle"/> [JavaScript](https://mozilla.org) / <img src="assets/typescript.svg" width="16" height="16" valign="middle"/> [TypeScript](https://typescriptlang.org) — Application logic & scripting
+* <img src="assets/nodejs.svg" width="16" height="16" valign="middle"/> [Node.js](https://nodejs.org) — Backend systems & environment automation
+* <img src="assets/git.svg" width="16" height="16" valign="middle"/> [Git](https://git-scm.com) — Version control & collaboration
 
 ---
 
-### 🤝 Connect:
-<p align="left">
-<a href="https://x.com" target="blank"><img align="center" src="assets/twitter.svg" alt="X (Twitter)" height="22" width="32" /></a>
-<a href="https://stackoverflow.com" target="blank"><img align="center" src="assets/stackoverflow.svg" alt="Stack Overflow" height="22" width="32" /></a>
-<a href="https://medium.com" target="blank"><img align="center" src="assets/medium.svg" alt="Medium" height="22" width="32" /></a>
-<a href="https://discord.com" target="blank"><img align="center" src="assets/discord.svg" alt="Discord" height="22" width="32" /></a>
-</p>
-
+### 🤝 Connect
+* <img src="assets/twitter.svg" width="16" height="16" valign="middle"/> [X (Twitter)](https://x.com) — Industry thoughts & quick updates
+* <img src="assets/stackoverflow.svg" width="16" height="16" valign="middle"/> [Stack Overflow](https://stackoverflow.com) — Technical Q&A & community contributions
+* <img src="assets/medium.svg" width="16" height="16" valign="middle"/> [Medium](https://medium.com) — Detailed research papers & technical write-ups
+* <img src="assets/discord.svg" width="16" height="16" valign="middle"/> [Discord](https://discord.com) — Direct messaging & professional server channels
