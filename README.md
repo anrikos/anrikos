@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="assets/giphy1.gif" alt="Demonstration" width="550" style="border-radius: 10px;" />
+  <img src="https://vercel.app" alt="Header" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <code>Anri Kosto</code></h1>
-<h3 align="center"><kbd>Cyber-Physical Systems (CPS / ICS / IoT) Security Researcher</kbd></h3>
 
 
 ---
