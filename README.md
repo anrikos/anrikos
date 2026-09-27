@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/giphy1.gif" alt="Демонстрация" width="550" style="border-radius: 10px;" />
+  <img src="assets/giphy1.gif" alt="Demonstration" width="550" style="border-radius: 10px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anri Kosto</h1>
@@ -12,9 +12,9 @@
 ---
 
 ### 🔬 Core Focus
-- **CPS & Offensive Security:** Исследование сетевых архитектур киберфизических систем, выявление скрытых уязвимостей и 0-day, аудит (Red Team), OSINT и форензика.
-- **AI & Anomaly Detection:** Выявление аномалий в сложных технологических данных с помощью Machine Learning, NLP и интеграции LLM.
-- **Tool Development:** Разработка кастомного софта и скриптов для анализа информации и симуляции угроз.
+- **CPS & Offensive Security:** Network architecture analysis for cyber-physical systems, vulnerability discovery and 0-day research, security auditing (Red Teaming), OSINT, and digital forensics.
+- **AI & Anomaly Detection:** Anomaly and hidden pattern detection in complex technological data using Machine Learning, NLP, and LLM integration.
+- **Tool Development:** Developing custom software, APIs, and tools for information analysis and threat simulation.
 
 ---
 
