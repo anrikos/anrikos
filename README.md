@@ -1,8 +1,13 @@
 <p align="center">
-  <img src="https://vercel.app" alt="Header" />
+  <img src="assets/giphy1.gif" alt="Demonstration" width="550" style="border-radius: 10px;" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Anri Kosto</h1>
+<h3 align="center">Cyber-Physical Systems (CPS / ICS / IoT) Security Researcher</h3>
 
+<p align="center">
+  <a href="mailto:anrik.dev@gmail.com">📫 <b>anrik.dev@gmail.com</b></a>
+</p>
 
 ---
 
