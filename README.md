@@ -12,9 +12,21 @@
 ---
 
 ### 🔬 Core Focus
-- **CPS & Offensive Security:** Network architecture analysis for cyber-physical systems, vulnerability discovery and 0-day research, security auditing (Red Teaming), OSINT, and digital forensics.
-- **AI & Anomaly Detection:** Anomaly and hidden pattern detection in complex technological data using Machine Learning, NLP, and LLM integration.
-- **Tool Development:** Developing custom software, APIs, and tools for information analysis and threat simulation.
+
+<blockquote>
+  <h4>🛰️ Cyber-Physical Systems & Offensive Security</h4>
+  <p>Network architecture analysis for complex technological systems, deep vulnerability discovery, and <code>0-day</code> research. Conducting high-level security auditing within <code>Red Teaming</code> operations, advanced <code>OSINT</code> investigations, and digital forensics.</p>
+</blockquote>
+
+<blockquote>
+  <h4>🧠 AI & Anomaly Detection Ecosystems</h4>
+  <p>Detecting anomalies and hidden adversarial patterns in complex technological data structures. Building robust systems using <code>Machine Learning</code>, <code>NLP</code> architectures, and secure <code>LLM integration</code>.</p>
+</blockquote>
+
+<blockquote>
+  <h4>🛠️ Security & Research Tool Development</h4>
+  <p>Engineering custom automation software, low-level scripts, and tactical tools designed specifically for information analysis, parsing, and advanced threat simulation.</p>
+</blockquote>
 
 ---
 
