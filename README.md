@@ -29,7 +29,7 @@
     <td align="center" valign="middle"><img src="assets/java.svg" alt="Java" width="40" height="40"/></td>
     <td align="center" valign="middle"><img src="assets/javascript.svg" alt="JavaScript" width="40" height="40"/></td>
     <td align="center" valign="middle"><img src="assets/typescript.svg" alt="TypeScript" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="assets/nodejs.svg" alt="NodeJS" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="assets/node-js.svg" alt="NodeJS" width="40" height="40"/></td>
     <td align="center" valign="middle"><img src="assets/git.svg" alt="Git" width="40" height="40"/></td>
   </tr>
 </table>
