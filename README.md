@@ -13,20 +13,24 @@
 
 ### 🔬 Core Focus
 
-<blockquote>
-  <h4>🛰️ Cyber-Physical Systems & Offensive Security</h4>
-  <p>Network architecture analysis for complex technological systems, deep vulnerability discovery, and <code>0-day</code> research. Conducting high-level security auditing within <code>Red Teaming</code> operations, advanced <code>OSINT</code> investigations, and digital forensics.</p>
-</blockquote>
-
-<blockquote>
-  <h4>🧠 AI & Anomaly Detection Ecosystems</h4>
-  <p>Detecting anomalies and hidden adversarial patterns in complex technological data structures. Building robust systems using <code>Machine Learning</code>, <code>NLP</code> architectures, and secure <code>LLM integration</code>.</p>
-</blockquote>
-
-<blockquote>
-  <h4>🛠️ Security & Research Tool Development</h4>
-  <p>Engineering custom automation software, low-level scripts, and tactical tools designed specifically for information analysis, parsing, and advanced threat simulation.</p>
-</blockquote>
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛰️ CPS & Offensive Security</h4>
+      Network architecture analysis, vulnerability discovery, and <code>0-day</code> research. Focus on <code>Red Teaming</code>, advanced <code>OSINT</code>, and digital forensics.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 AI & Anomaly Detection</h4>
+      Detecting anomalies and hidden adversarial patterns in complex data using <code>Machine Learning</code>, <code>NLP</code> architectures, and secure <code>LLM integration</code>.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="left" valign="top">
+      <h4>🛠️ Tool Development</h4>
+      Engineering custom automation software, low-level scripts, and tactical tools designed specifically for information processing and threat simulation.
+    </td>
+  </tr>
+</table>
 
 ---
 
