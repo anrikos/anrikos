@@ -14,7 +14,7 @@
 ### 🔬 Core Focus
 * **CPS & Offensive Security:** Network analysis, vulnerability discovery, `0-day` research, `Red Teaming`, `OSINT`, and forensics.
 * **AI & Anomaly Detection:** Pattern recognition in technological data via `Machine Learning`, `NLP`, and secure `LLM integration`.
-* **Tool Development:** Engineering custom automation software and tools for information analysis.
+* **Tool Development:** Engineering custom automation software and tools for information analysis and threat simulation.
 
 ---
 
@@ -22,15 +22,15 @@
 
 <table>
   <tr>
-    <td align="center" valign="middle"><a href="https://linux.org"><img src="https://githubusercontent.com" alt="Linux" width="40" height="40"/></a></td>
-    <td align="center" valign="middle"><a href="https://mathworks.com"><img src="https://wikimedia.org" alt="MATLAB" width="40" height="40"/></a></td>
-    <td align="center" valign="middle"><a href="https://tensorflow.org"><img src="https://vectorlogo.zone" alt="TensorFlow" width="40" height="40"/></a></td>
-    <td align="center" valign="middle"><a href="https://pydata.org"><img src="https://githubusercontent.com" alt="Pandas" width="40" height="40"/></a></td>
-    <td align="center" valign="middle"><a href="https://java.com"><img src="https://githubusercontent.com" alt="Java" width="40" height="40"/></a></td>
-    <td align="center" valign="middle"><a href="https://mozilla.org"><img src="https://githubusercontent.com" alt="JavaScript" width="40" height="40"/></a></td>
-    <td align="center" valign="middle"><a href="https://typescriptlang.org"><img src="https://githubusercontent.com" alt="TypeScript" width="40" height="40"/></a></td>
-    <td align="center" valign="middle"><a href="https://nodejs.org"><img src="https://githubusercontent.com" alt="NodeJS" width="40" height="40"/></a></td>
-    <td align="center" valign="middle"><a href="https://git-scm.com"><img src="https://vectorlogo.zone" alt="Git" width="40" height="40"/></a></td>
+    <td align="center" valign="middle"><img src="assets/linux.svg" alt="Linux" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="assets/matlab.svg" alt="MATLAB" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="assets/tensorflow.svg" alt="TensorFlow" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="assets/pandas.svg" alt="Pandas" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="assets/java.svg" alt="Java" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="assets/javascript.svg" alt="JavaScript" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="assets/typescript.svg" alt="TypeScript" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="assets/nodejs.svg" alt="NodeJS" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="assets/git.svg" alt="Git" width="40" height="40"/></td>
   </tr>
 </table>
 
