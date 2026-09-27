@@ -36,17 +36,6 @@
 
 ---
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://vercel.app" alt="Anri's GitHub stats" height="140" />
-  <img src="https://vercel.app" alt="Top Langs" height="140" />
-</p>
-
-
----
-
 ### 🤝 Connect:
 <p align="left">
 <a href="https://x.com" target="blank"><img align="center" src="assets/twitter.svg" alt="X (Twitter)" height="22" width="32" /></a>
