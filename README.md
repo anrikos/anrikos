@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Anri Kosto</h1>
-<h3 align="center">Cyber-Physical Systems (CPS / ICS / IoT) Security Researcher & AI Developer</h3>
+<h3 align="center">Cyber-Physical Systems (CPS / ICS / IoT) Security Researcher</h3>
 
 <p align="center">
   <a href="mailto:anrik.dev@gmail.com">📫 <b>anrik.dev@gmail.com</b></a>
@@ -12,17 +12,9 @@
 ---
 
 ### 🔬 Core Focus
-- **CPS & Offensive Security:** Network architecture analysis for cyber-physical systems, vulnerability discovery, 0-day research, Red Teaming, OSINT, and digital forensics.
-- **AI & Anomaly Detection:** Pattern recognition in complex technological data using Machine Learning, NLP, and LLM behavior engineering.
-- **Tool Development:** Building custom tools, APIs, and frameworks for data structures, information analysis, and threat simulation.
-
----
-
-### 🚀 Featured Project: "Code of Communication" (Код Общения)
-*An innovative AI-driven approach to help neurodivergent individuals (ASD) build social skills.*
-- **The Core:** Translating complex social interactions into structured, mathematically analyzable systems (Social Thinking approach).
-- **LLM Integration:** Utilizing Large Language Models to simulate real-world communication scenarios, preventing rigid conversational shadowing.
-- **Under the Hood:** Implements prompt engineering, data vectorization, component analysis, Matrix methods, and Hidden Markov Models to predict action sequences and manage simulation feedback loops.
+- **CPS & Offensive Security:** Network architecture analysis for cyber-physical systems, vulnerability discovery and 0-day research, security auditing (Red Teaming), OSINT, and digital forensics.
+- **AI & Anomaly Detection:** Anomaly and hidden pattern detection in complex technological data using Machine Learning, NLP, and LLM integration.
+- **Tool Development:** Developing custom software, APIs, and tools for information analysis and threat simulation.
 
 ---
 
