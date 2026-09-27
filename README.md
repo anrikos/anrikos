@@ -36,11 +36,29 @@
 
 ---
 
+---
+
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://vercel.app" alt="Anri's GitHub stats" height="140" />
-  <img src="https://vercel.app" alt="Top Langs" height="140" />
-</p>
+
+<table border="0">
+  <tr>
+    <td align="left" valign="top" width="50%">
+      <h4>
+        <img src="assets/activity.svg" width="18" height="18" valign="middle"/> 
+        <a href="https://github.com">Contribution Activity</a>
+      </h4>
+      <p><img src="https://vercel.app" alt="Anri's GitHub stats" height="150" /></p>
+    </td>
+    <td align="left" valign="top" width="50%">
+      <h4>
+        <img src="assets/code.svg" width="18" height="18" valign="middle"/> 
+        <a href="https://github.com">Language Analytics</a>
+      </h4>
+      <p><img src="https://vercel.app" alt="Top Langs" height="150" /></p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
