@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Anri Kosto</h1>
-<h3 align="center">Information Security Analyst specializing in Cyber-Physical Systems, AI & Security Research</h3>
+<h3 align="center">Information Security Analyst specializing in Cyber-Physical Systems</h3>
 
 <p align="center">
   <a href="mailto:anrik.dev@gmail.com">📫 How to reach me: <b>anrik.dev@gmail.com</b></a>
