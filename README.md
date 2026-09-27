@@ -20,11 +20,55 @@
 
 ### 💻 Stack & Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://linux.org" target="_blank" rel="noreferrer">
+        <img src="https://githubusercontent.com" alt="Linux" width="45" height="45"/>
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://mathworks.com" target="_blank" rel="noreferrer">
+        <img src="https://wikimedia.org" alt="MATLAB" width="45" height="45"/>
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://tensorflow.org" target="_blank" rel="noreferrer">
+        <img src="https://vectorlogo.zone" alt="TensorFlow" width="45" height="45"/>
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://pydata.org" target="_blank" rel="noreferrer">
+        <img src="https://githubusercontent.com" alt="Pandas" width="45" height="45"/>
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://java.com" target="_blank" rel="noreferrer">
+        <img src="https://githubusercontent.com" alt="Java" width="45" height="45"/>
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://mozilla.org" target="_blank" rel="noreferrer">
+        <img src="https://githubusercontent.com" alt="JavaScript" width="45" height="45"/>
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://typescriptlang.org" target="_blank" rel="noreferrer">
+        <img src="https://githubusercontent.com" alt="TypeScript" width="45" height="45"/>
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://githubusercontent.com" alt="NodeJS" width="45" height="45"/>
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+        <img src="https://vectorlogo.zone" alt="Git" width="45" height="45"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
