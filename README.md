@@ -2,7 +2,7 @@
   <img src="assets/giphy1.gif" alt="Demonstration" width="550" style="border-radius: 10px;" />
 </p>
 
-<h2 align="center"><kbd style="font-size: 1.25em;">Cyber-Physical Systems (CPS / ICS / IoT) Security Researcher</kbd></h2>
+<h2 align="center"><kbd style="font-size: 1.6em; padding: 5px 15px;">Cyber-Physical Systems (CPS / ICS / IoT) Security Researcher</kbd></h2>
 
 <p align="center">
   <a href="mailto:anrik.dev@gmail.com">📫 <b>anrik.dev@gmail.com</b></a>
