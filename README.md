@@ -43,5 +43,6 @@
 <a href="https://www.reddit.com/user/Ok-Flatworm-9179" target="blank"><img align="center" src="assets/reddit.svg" alt="Reddit" height="22" width="32" /></a>
 <a href="https://medium.com/@anrikos" target="blank"><img align="center" src="assets/medium.svg" alt="Medium" height="22" width="32" /></a>
 <a href="https://t.me" target="blank"><img align="center" src="assets/telegram.svg" alt="Telegram" height="22" width="32" /></a>
+<a href="https://wa.me" target="blank"><img align="center" src="assets/whatsapp.svg" alt="WhatsApp" height="22" width="32" /></a>
 </p>
 
