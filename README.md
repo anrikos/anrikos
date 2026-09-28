@@ -39,7 +39,7 @@
 <p align="left">
 <a href="https://x.com/AnriKosto12165" target="blank"><img align="center" src="assets/twitter.svg" alt="X (Twitter)" height="22" width="32" /></a>
 <a href="https://stackoverflow.com/users/29832307/anri-kosto" target="blank"><img align="center" src="assets/stackoverflow.svg" alt="Stack Overflow" height="22" width="32" /></a>
-<a href="https://discord.com" target="blank"><img align="center" src="assets/discord.svg" alt="Discord" height="22" width="32" /></a>
+<a href="https://discord.com/channels/@anrikosto_93127" target="blank"><img align="center" src="assets/discord.svg" alt="Discord" height="22" width="32" /></a>
 <a href="https://reddit.com" target="blank"><img align="center" src="assets/reddit.svg" alt="Reddit" height="22" width="32" /></a>
 </p>
 
